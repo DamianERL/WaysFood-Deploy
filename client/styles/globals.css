@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@800&display=swap');
+
+body {background-color: #EFEFEF ;}
+
+
+
+
+.triangle-up {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 20px solid white;
+}
+.circle{
+	background-color:red;
+	width:20px;
+	height:20px;
+	position:absolute;
+	border-radius:50%;
+	text-align:center;
+	color:white;
+	font-size: 0.7rem;
+	margin: 0 50px 15px 0;
+    justify-content: center;
+    align-items: center;
+}
